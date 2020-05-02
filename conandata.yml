@@ -1,4 +1,4 @@
 sources:
   "1.0.0":
-    url: "https://github.com/libauthor/libname"
-    sha256: "98f6f57aab0a424469619ed3047728f0d3901ce8f0dea919c11e7966d807e870"
+    url: "https://github.com/erikzenker/hsm/archive/v1.0.0.tar.gz"
+    sha256: "521a62734f30cff1323ff25de95e36b6cd582e6fc46c0a2fd5114cabf53c3a5c"
